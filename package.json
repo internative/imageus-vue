@@ -1,15 +1,34 @@
 {
   "name": "imageus-vue",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Create a powerful & effortless images for your apps",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "internative",
   "license": "ISC",
   "devDependencies": {
     "@vue/compiler-sfc": "^3.2.47",
     "vue": "^3.2.47"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internative/imageus-vue.git"
+  },
+  "keywords": [
+    "image",
+    "resizer",
+    "image",
+    "processing",
+    "image",
+    "compressing",
+    "image",
+    "deliveribility"
+  ],
+  "bugs": {
+    "url": "https://github.com/internative/imageus-vue/issues"
+  },
+  "homepage": "https://github.com/internative/imageus-vue#readme"
 }
